@@ -1,3 +1,7 @@
+<p align="center"><img src="https://oscaralderete.com/img/logo_wpe.svg" width="400"></p>
+
+---
+
 # WordPress + WooCommerce Plugins
 
 Un set de plugins que desarrollé y luego refactoricé especialmente para usuarios del Perú.
