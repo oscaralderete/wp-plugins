@@ -4,7 +4,7 @@ Un set de plugins que desarrollé y luego refactoricé especialmente para usuari
 
 ---
 
-## 1. Marker On OpenstreetMap
+## 1. Markers On OpenstreetMap
 
 Este es un plugin que desarollé hace unos años y que es una variación del realizado para Google Maps. Originalmente, la URL de la API de Google Maps se invocaba sin más desde un tag _script_ hasta que decidieron que tendría que funcionar obligatoriamente con un _KEY_ de usuario. Debido a que algunos usuarios de mapas no contaban con una cuenta de Google o el proceso de generar tal _KEY_ se les hacía algo complicado alguien me pidió una solución alternativa y así es como se originó este plugin.
 
