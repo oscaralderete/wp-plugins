@@ -10,7 +10,7 @@ Este es un plugin que desarollé hace unos años y que es una variación del rea
 
 Esta versión está refactorizada y sigue las recomendaciones de buenas prácticas de WP. Su página en el _admin zone_ usa Vue y Ajax para funcionar sin necesidad de recargar la página a cada interacción con el servidor. Un _live demo_ se encuentra en el siguiente link (buscarlo en el footer del website):
 
--   [http://demo.oscaralderete.com/tienda1/](http://demo.oscaralderete.com/tienda1/)
+-   <a href="http://demo.oscaralderete.com/tienda1/" target="_blank">http://demo.oscaralderete.com/tienda1/</a>
 
 PS: Hay montones de plugins de este tipo así que para diferenciarla un poco decidí darle un toque especial, hice que los colores del _marker_ puedan ser fácilmente personalizables.
 
@@ -22,7 +22,7 @@ Uno de los primeros plugins que escribí, inicialmente usaba un archivo XML para
 
 Necesita el _KEY_ de usuario de Google Maps que se registra en su página en el _admin zone_. También tiene el personalizador de colores del plugin anterior. Su _live demo_ se está en el siguiente link (buscarlo en el footer del website):
 
--   [http://demo.oscaralderete.com/tienda2/](http://demo.oscaralderete.com/tienda2/)
+-   <a href="http://demo.oscaralderete.com/tienda2/" target="_blank">http://demo.oscaralderete.com/tienda2/</a>
 
 ---
 
@@ -32,7 +32,7 @@ Este plugin agrega los inputs Boleta/Factura y DNI/RUC para su registro en una i
 
 Revisa su _live demo_ en este link (para simplificarte el _review_ hay un botón que al clicarlo elige un producto al azar y te envía al _checkout_, cool):
 
--   [http://demo.oscaralderete.com/tienda1/](http://demo.oscaralderete.com/tienda1/)
+-   <a href="http://demo.oscaralderete.com/tienda1/" target="_blank">http://demo.oscaralderete.com/tienda1/</a>
 
 ---
 
@@ -42,7 +42,7 @@ También otro plugin desarrollado hace varios años, la versión original usaba 
 
 Encuentra su _live demo_ en este link (para simplificarte el _review_ hay un botón que al clicarlo elige un producto al azar y te envía al _checkout_, cool):
 
--   [http://demo.oscaralderete.com/tienda2/](http://demo.oscaralderete.com/tienda2/)
+-   <a href="http://demo.oscaralderete.com/tienda2/" target="_blank">http://demo.oscaralderete.com/tienda2/</a>
 
 ---
 
